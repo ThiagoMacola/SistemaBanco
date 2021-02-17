@@ -75,9 +75,9 @@ namespace Sistema_Banco
 							cliente1.Conta.Saque(dinheiro);
 							break;
 						case 4:
-							Console.WriteLine("Digite o numero da Agencia: ");
+							Console.WriteLine("Digite o numero da Agencia que deseja transferir: ");
 							ag = int.Parse(Console.ReadLine());
-							Console.WriteLine("Digite o numero da Conta: ");
+							Console.WriteLine("Digite o numero da Conta que deseja transferir: ");
 							num = float.Parse(Console.ReadLine());
 							if ((conta2.Agencia == ag) && (conta2.Numero == num))
 							{
@@ -89,7 +89,7 @@ namespace Sistema_Banco
 							else Console.WriteLine("NUMERO ERRADO");
 							break;
 						case 5:
-							Console.WriteLine(cliente1.Conta.Saldo);
+							Console.WriteLine("Seu saldo é de: " + cliente1.Conta.Saldo);
 							break;
 					}
 				}

@@ -42,9 +42,5 @@ namespace Sistema_Banco
 			Saldo = 0;
 		}
 
-		
-		
-
-
 	}
 }
