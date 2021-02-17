@@ -1,0 +1,7 @@
+C:\Users\Thiago\source\repos\Sistema_Banco\Sistema_Banco\bin\Debug\Sistema_Banco.exe.config
+C:\Users\Thiago\source\repos\Sistema_Banco\Sistema_Banco\bin\Debug\Sistema_Banco.exe
+C:\Users\Thiago\source\repos\Sistema_Banco\Sistema_Banco\bin\Debug\Sistema_Banco.pdb
+C:\Users\Thiago\source\repos\Sistema_Banco\Sistema_Banco\obj\Debug\Sistema_Banco.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\Sistema_Banco\Sistema_Banco\obj\Debug\Sistema_Banco.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Sistema_Banco\Sistema_Banco\obj\Debug\Sistema_Banco.exe
+C:\Users\Thiago\source\repos\Sistema_Banco\Sistema_Banco\obj\Debug\Sistema_Banco.pdb
